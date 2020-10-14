@@ -2,14 +2,21 @@
 Brainly/quizlet searcher
 
 
-## [Download v1.1.3 installer](https://www.dropbox.com/s/9ivknsm2v5vha88/Searchify%20v1.1.3%20Installer%20%28x64%29.exe?dl=1)
-
-## [Download v1.1.3 zip](https://www.dropbox.com/s/469hwiv62xqke1z/Searchify%20v1.1.3p%20%28x64%29.zip?dl=1)
-
-
 Heres a small program I wrote to help with Edgenuity... Its currently only in a beta so there still might be some bugs. It might be a little slow right now but I've tried everything I can to optimize it lol
 
 Heres some screenshots of the [dark theme](https://i.imgur.com/HOywNMb.png), [black theme](https://i.imgur.com/56CP26a.png), and [light theme](https://i.imgur.com/0WvHxCt.png)
+
+
+## [Download v1.2.0 installer](https://www.dropbox.com/s/r2h2qauqrtthc2x/Searchify%20v1.2.0%20Installer%20%28x64%29.exe?dl=1)
+
+## [Download v1.2.0 zip](https://www.dropbox.com/s/voo14pac7dnx177/Searchify%20v1.2.0p%20%28x64%29.zip?dl=1)
+
+#### Previous Versions:
+
+#### [Download v1.1.3 installer](https://www.dropbox.com/s/9ivknsm2v5vha88/Searchify%20v1.1.3%20Installer%20%28x64%29.exe?dl=1)
+
+#### [Download v1.1.3 zip](https://www.dropbox.com/s/469hwiv62xqke1z/Searchify%20v1.1.3p%20%28x64%29.zip?dl=1)
+
 
 ---
 ### Requirements for source code (requires python 3.8+):
