@@ -66,13 +66,9 @@ python -m pip install requests requests-html beautifulsoup4 python-Levenshtein P
 
 - Add a built-in paraphraser
 
-- Add button to input from clipboard
+- Add a batch question scanner
 
 - Add hotkeys
-
-- Add other sites (such as quizizz)
-
-- Maybe add a mathway section ?
 
 - Idk i need suggestions
 
