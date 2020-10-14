@@ -1,5 +1,7 @@
 {
     "searchQuizlet": true,
     "searchBrainly": true,
+    "searchWhenPasting": false,
+    "checkForUpdates": true,
     "themeInput": "Dark Theme"
 }
