@@ -31,12 +31,20 @@ python -m pip install requests requests-html beautifulsoup4 python-Levenshtein P
 ---
 
 
+### Whats new in v1.2.0:
+- Added open url button
+- Added copy button
+- Added a check for updates option
+- Updated ui
+
+
 ### Whats new in v1.1.3:
 - Fixed the "too many requests error" for google
 - Added bing and yahoo searching
 - Fixed errors in brainly parsing
 
 
+---
 
 ### What it does:
 
